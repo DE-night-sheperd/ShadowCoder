@@ -1,5 +1,5 @@
 {
-  "name": "shadowcode-python",
+  "name": "shadowcoder",
   "version": "1.0.0",
   "description": "A typing-based Python coding trainer that builds muscle memory through shadow typing",
   "main": "index.js",
